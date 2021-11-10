@@ -45,7 +45,7 @@ public class Wrapper_Ex3 {
 		// str10°ú str11À» °ö¼À
 		System.out.println("1001 * 2001 =" + (i1 * i2));
 		
-
+		
 	}
 
 }
