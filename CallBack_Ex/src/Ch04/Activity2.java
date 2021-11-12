@@ -30,9 +30,9 @@ public class Activity2 extends JFrame{
 				int x = e.getX();
 				int y = e.getY();
 				// 방어적 코드
-				if(checkPosition != null) {
+//				if(checkPosition != null) {
 					checkPosition.checkPosition(x, y);
-				}
+//				}
 			}
 		});
 	}
