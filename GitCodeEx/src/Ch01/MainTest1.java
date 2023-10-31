@@ -3,8 +3,9 @@ package Ch01;
 public class MainTest1 {
 
 	public static void main(String[] args) {
-		System.out.println("Git ½ÇÁ¦·Î »ç¿ëÇØº¸±â");
-		System.out.println("ÄÚµå¸¦ ¼öÁ¤ÇÏ¿´½À´Ï´Ù.");
+		System.out.println("Git ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Øºï¿½ï¿½ï¿½");
+		System.out.println("ï¿½Úµå¸¦ ï¿½ï¿½ï¿½ï¿½ï¿½Ï¿ï¿½ï¿½ï¿½ï¿½Ï´ï¿½.");
+		System.out.println('oooo');
 	}
 
 }
